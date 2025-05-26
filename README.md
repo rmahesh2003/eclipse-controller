@@ -77,22 +77,6 @@ python3 timelapse_controller.py
 - Social media integration
 - Advanced post-processing options
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Disclaimer
-
-NO WARRANTY ON THIS SCRIPT. USE AT YOUR OWN RISK. The developers are not responsible for any damage to equipment or loss of data.
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
 ---
 
 *This project is actively maintained and will be expanded into a full web application in the near future. Stay tuned for updates!* 
